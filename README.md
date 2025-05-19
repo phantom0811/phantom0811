@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=27&pause=1000&color=A6E6F7&background=E9E9E900&center=true&vCenter=true&width=435&lines=Hi+there!++;This+is+Phantom+Dev.;I+like+Coding+and+Hacking.+%2F%E1%90%A0+.%E1%86%BA.+%E1%90%9F%5C%EF%BE%89+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=27&pause=1000&color=A6E6F7&background=E9E9E900&center=true&vCenter=true&width=435&lines=Hi+there!++;This+is+Phantom+Dev.+%2F%E1%90%A0+.%E1%86%BA.+%E1%90%9F%5C%EF%BE%89+;I+like+Coding+and+Hacking." alt="Typing SVG" />
   </a>
 </h1>
 <!-- <h3 align="center">I’m totally enchanted by the magic of web development, the vast universe of blockchain, and the intriguing puzzles of cyber security.</h3>
