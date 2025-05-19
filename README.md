@@ -105,9 +105,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  </a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/>
   </a>
@@ -116,9 +113,6 @@
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
