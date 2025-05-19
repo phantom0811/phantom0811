@@ -19,7 +19,7 @@
 - 🌟 I’m open to collaborative opportunities that blend creativity and technical depth especially in full stack JavaScript development. I enjoy working on projects that aim to make digital experiences both joyful and intelligent.
 
 <h2 align="center">🪄 Connect with me 🪄</h2>
-<p align="center flex">
+<p align="center flex" style="justify-content: center">
 
   <a href="https://t.me/eternity_authority" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40">
